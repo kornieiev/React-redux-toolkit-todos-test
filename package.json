@@ -1,8 +1,8 @@
 {
-  "name": "React-redux-toolkit-test",
+  "name": "react-redux-toolkit-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kornieiev.github.io/React-redux-toolkit-test/",
+  "homepage": "https://kornieiev.github.io/react-redux-toolkit-test/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.3",
     "@testing-library/jest-dom": "^5.16.3",
