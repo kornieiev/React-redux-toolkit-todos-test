@@ -5,7 +5,7 @@ import { statusFilters } from '../../redux/constants';
 import { Button } from 'components/Button/Button';
 import { getStatusFilter } from 'redux/selectors';
 // Імпортуємо генератор екшену
-import { setStatusFilter } from '../../redux/actions';
+import { setStatusFilter } from '../../redux/filtersSlice';
 
 export const StatusFilter = () => {
   // Отримуємо посилання на функцію відправки екшенів
