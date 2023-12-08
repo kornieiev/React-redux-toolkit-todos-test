@@ -1,8 +1,8 @@
 {
-  "name": "react-redux-toolkit-test",
+  "name": "react-redux-toolkit-todos-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kornieiev.github.io/react-redux-toolkit-test/",
+  "homepage": "https://kornieiev.github.io/react-redux-toolkit-todos-test/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.3",
     "@reduxjs/toolkit": "^2.0.1",
